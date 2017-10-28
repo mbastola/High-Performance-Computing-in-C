@@ -1,4 +1,3 @@
-/* Behavioral reconstruction from HPCHw4.pdf; not the original submission. */
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
